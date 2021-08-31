@@ -20,6 +20,7 @@ function App() {
       <h2>Kawan</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum iusto fuga aliquam distinctio cum a unde accusantium, ullam illum amet quos animi ipsum non eius dignissimos nam placeat expedita similique doloribus officia quasi modi quidem sed sint? Veritatis facilis nobis labore eius esse, ab amet, atque laborum illo sunt provident impedit ratione dolorum animi. Odit sunt blanditiis laudantium accusantium eum. Culpa temporibus alias in fuga ex nulla expedita illo. Ad beatae cupiditate sed ex maiores commodi minus fuga laborum repellat iste distinctio, vero enim veniam quod facilis voluptas consequuntur praesentium hic odit eligendi quia quis atque! Velit asperiores nulla modi!ipsum dolor sit amet consectetur adipisicing elit. Earum, odio illum rem dolore laudantium quaerat quod eos consequatur consequuntur, sint expedita similique! Dolore officiis exercitationem, rem quaerat necessitatibus vero neque.</p>
     </div>
+    
   );
 }
 
